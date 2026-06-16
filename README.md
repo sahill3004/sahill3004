@@ -1,119 +1,171 @@
 <div align="center">
 
-# Hey 👋 I'm Sahil Naik
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1a1a1a&text=Sahil%20Naik&fontColor=00d4ff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AWS%20Cloud%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=60" />
 
-### Backend Developer • AWS Cloud Engineer • DevOps Enthusiast
+# 👋 Hello, I'm Sahil Naik
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;AWS+Cloud+Engineer;DevOps+Engineer;Infrastructure+Automation+Enthusiast;Building+Scalable+Cloud+Solutions" />
+### Backend Engineer • AWS Cloud Engineer • DevOps Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;AWS+Cloud+Deployments;REST+API+Development;Microservices+Architecture;CI%2FCD+Automation;Infrastructure+and+Cloud+Engineering" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Backend Developer passionate about designing scalable applications, automating infrastructure, and building cloud-native solutions on AWS.
+Backend Engineer with professional experience developing enterprise-grade applications for the financial services industry.
 
-I enjoy solving real-world engineering challenges through:
+I specialize in designing scalable APIs, backend services, cloud deployments, database optimization, and deployment automation.
 
-- ☁️ Cloud Architecture
-- ⚙️ DevOps Automation
-- 🔐 Security Best Practices
-- 🚀 CI/CD Pipelines
-- 🏗 Infrastructure as Code
-- 🔄 Backend System Design
-
-Currently focused on mastering production-grade AWS and DevOps practices while building industry-level projects.
+My work spans from backend development to AWS cloud infrastructure and DevOps practices, helping teams deliver reliable and maintainable production systems.
 
 ---
 
-## 💻 Tech Stack
+# 💻 What I Work With
 
-### Backend Development
+## Backend Engineering
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-00599C?style=for-the-badge)
+```text
+Node.js
+Express.js
+REST APIs
+Microservices
+Authentication & Authorization
+RBAC
+JWT Security
+```
 
----
+## Cloud Engineering
 
-### Cloud & DevOps
+```text
+AWS EC2
+AWS RDS
+AWS S3
+IAM
+Cloud Security
+Deployment Automation
+```
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+## DevOps
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+```text
+CI/CD Pipelines
+Linux Administration
+GitHub Actions
+Docker
+Nginx
+PM2
+Infrastructure Automation
+```
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## Databases
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```text
+Oracle SQL
+MongoDB
+Database Design
+Performance Optimization
+Stored Procedures
+Indexing
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Messaging Systems
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🎯 Current Engineering Focus
-
-```yaml
-Backend:
-  - API Development
-  - System Design
-  - Database Integration
-
-Cloud:
-  - AWS Architecture
-  - IAM Security
-  - Cloud Automation
-
-DevOps:
-  - Terraform
-  - CI/CD Pipelines
-  - Docker
-  - Infrastructure as Code
+```text
+RabbitMQ
+Event Driven Architecture
+Asynchronous Processing
 ```
 
 ---
 
-## 🔥 Featured Projects
+# ⚡ Technical Expertise
 
-### 🔐 AWS IAM Security Foundation
+✔ RESTful API Development
 
-Production-ready IAM implementation featuring:
+✔ Backend System Design
 
-✔ MFA Enforcement
+✔ Production Deployments
 
-✔ Least Privilege Access
+✔ Cloud Infrastructure
 
-✔ IAM Groups & Roles
+✔ Database Optimization
 
-✔ Security Policies
+✔ Message Queue Systems
 
-✔ Account Hardening
+✔ CI/CD Automation
 
----
+✔ Application Security
 
-### ☁️ Infrastructure as Code
+✔ Linux Server Management
 
-Terraform projects focused on:
-
-- Reproducible Infrastructure
-- Automated Deployments
-- Cloud Resource Provisioning
+✔ Performance Tuning
 
 ---
 
-### 🚀 CI/CD Automation
+# 🏢 Professional Experience
 
-Automated deployment pipelines using:
+### Assistant Software Developer
+**Credence Analytics**
 
-- GitHub Actions
-- AWS Services
-- Infrastructure Validation
+Developing and maintaining enterprise financial software solutions with focus on:
+
+- Backend API development
+- Microservices architecture
+- AWS deployments
+- Oracle SQL optimization
+- RabbitMQ integrations
+- CI/CD implementation
+- Production support and monitoring
 
 ---
 
-## 📈 GitHub Analytics
+# ☁️ Cloud Projects
+
+### AWS IAM Security Foundation
+
+Implemented:
+
+- MFA Enforcement
+- Least Privilege Access
+- IAM Roles & Policies
+- Security Baseline Controls
+
+### AWS Application Deployment
+
+Configured:
+
+- EC2 Deployments
+- RDS Administration
+- Nginx Reverse Proxy
+- PM2 Process Management
+- Environment Configuration
+
+### Infrastructure Automation
+
+Built automated deployment pipelines supporting:
+
+- Development
+- UAT
+- Staging
+- Production
+
+Environments.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,aws,docker,linux,git,github,mongodb,vscode" />
+
+</p>
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -125,17 +177,7 @@ Automated deployment pipelines using:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-## 📊 Contribution Activity
+# 🔥 Contribution Activity
 
 <p align="center">
 
@@ -145,15 +187,35 @@ Automated deployment pipelines using:
 
 ---
 
-## 🌎 Connect With Me
+# 🏆 Achievements
+
+🥈 Runner-Up Award
+
+Developed a one-click automated database migration solution that significantly reduced deployment effort and improved migration efficiency.
+
+---
+
+# 📜 Certifications
+
+☁️ AWS Cloud Practitioner Essentials
+
+☁️ AWS Solutions Architect Training
+
+🐧 Linux Foundation - Introduction to Node.js
+
+📘 JavaScript Certification
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/sahill3004">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -163,6 +225,8 @@ Automated deployment pipelines using:
 
 <div align="center">
 
-### Building Scalable Backends • Automating Infrastructure • Learning Every Day 🚀
+### ⚡ Building Reliable Backends • Automating Infrastructure • Scaling Applications
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0f0f,100:1a1a1a"/>
